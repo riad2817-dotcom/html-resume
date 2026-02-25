@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Md Riad Arefin - Resume</title>
+    <img src="./image.jpeg" alt="Profile Image" width="120" style="border-radius: 50%;">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        
+        h1 {
+            text-align: center;
+        }
+
+        h2 {
+            border-bottom: 2px solid black; padding-bottom: 5px;
+        }
+
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Md Riad Arefin</h1>
+    <a href="./Contact.html">Contact Me</a>
+
+    <div class="section">
+        <h2>Professional Summary</h2>
+        <p>  Business Development Executive with experience in sales, remote communication, 
+            and client relationship management across European markets</p>
+            </p>
+    </div>
+
+    <div class="section">
+        <h2>Experience</h2>
+        <h3> Sales Representative (Remote)</h3>
+        <p><Yueat class="io"></Yueat> 2024- present</p>
+        <ul>
+            <li>Conducted remote sales presentations and negotiations with clients across Europe, resulting in a 20% increase in sales revenue.</li>
+            <li>Utilized CRM software to manage client relationships and track sales performance, improving customer retention by 15%.</li>
+            <li>Collaborated with cross-functional teams to develop tailored solutions for clients, enhancing customer satisfaction and loyalty.</li>
+        </ul>
+        
+        <h3>Business Development Executive</h3>
+        <p>A H Khan Company LTD</p>
+        <ul>
+            <li>Communicated with corporate clients to provide product and service information.</li>
+            <li>Built and maintained professional client relationships through structured communication and follow-up procedures.</li>
+            <li>Supported CRM data updates, sales documentation, and reporting activities.</li>
+            <li>Participated in company activities such as the Business Club and Sales Competition, developing leadership and teamwork skills.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li>Remote Sales & Client Communication</li>
+            <li>CRM Software Proficiency</li>
+            <li>Customer Relationship Management</li>
+            <li>Strategic Sales Planning</li>
+            <li>Business Development & client relationship management</li>
+            <li>Data Entry & Record Management</li>
+            <li>Email and Calendar Management</li>
+            <li>Microsoft Office Suite (Word, Excel, PowerPoint)</li>
+            <li>Full-stack JavaScript Development</li>
+            <li>Asana, Slack, Trello, Aircall</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <h3>Bachelor of Business Administration</h3>
+        <p>Daffodil International University</p>
+    </div>
+
+</body>
+</html>
+    
+
+    
+        
+        
+        
+    
